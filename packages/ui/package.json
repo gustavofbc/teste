@@ -13,6 +13,7 @@
     "@types/react-dom": "^18.0.6",
     "eslint": "^8.33.0",
     "eslint-config-custom": "workspace:*",
+    "tokens": "workspace:*",
     "react": "^18.2.0",
     "tsconfig": "workspace:*",
     "tsup": "^6.5.0",
